@@ -22,7 +22,7 @@ Some tools commonly used by data analysts include:
 
 4. **Business Intelligence (BI) Tools**: Software like Tableau, Power BI, or Looker provides powerful data visualization and interactive dashboards that help communicate insights effectively.
 
-###Project 1:
+### Project 1:
 
 Create a functional dashboard in Google Sheets to analyze and visualize data related to bike buyers.
 
