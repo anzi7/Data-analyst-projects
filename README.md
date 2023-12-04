@@ -50,5 +50,8 @@ Draw insights from your analysis and use them to make informed recommendations. 
 Step 8:- Documentation
 Document the steps you took to create the dashboard. Include explanations for the design choices and any challenges faced. Create a summary of the insights gained and recommendations made.
 
-
+## Content:-
+Data Analytics with Excel, Function in Excel, Pivot Tables, Conditional Formatting, Charts, Data Cleaning.
+## Skills:-
+Data Acquisition, Google Sheets Set-Up, Data Exploration, Data Visualization.
 
