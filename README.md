@@ -58,6 +58,7 @@ Data Acquisition, Google Sheets Set-Up, Data Exploration, Data Visualization.
 1. Bar Chart (Marital Status):
 
 Question: How does the count of bike purchases vary among different marital statuses? Are married individuals more likely to purchase bikes?
+
 Ans: 
 From the pivot table of two columns Marital Status and Purchased Bike, we know the count of married and single people purchasing the bikes.
 There are two categories: "Married" and "Single." The counts of bike purchases are divided into two categories: "No" (indicating no bike purchase) and "Yes" (indicating a bike purchase). 
@@ -69,6 +70,7 @@ There are two categories: "Married" and "Single." The counts of bike purchases a
 2. Bar Chart (Gender):
 
 Question: Build a bar graph to compare the count of male and female customers. Does gender influence bike purchases, and if so, to what extent?
+
 Ans: 
 Count of females who purchased a bike: 239
 Count of females who did not purchase a bike: 252
@@ -81,6 +83,7 @@ Based on this data, there is a marginal difference in the counts of bike purchas
 
 3. Histogram (Income):
 Question: What is the distribution of income among bike buyers? Are there specific income brackets that show a higher likelihood of bike purchases?
+
 Ans:
 
 | Income Bin | Frequency |
@@ -108,6 +111,7 @@ For instance, you might observe that the 60,000 bracket has a relatively high fr
 
 4. Histogram (Age):
 Question: Create a histogram to understand the age distribution of bike buyers. Are certain age groups more inclined to purchase bikes?
+
 Ans:
 
 | Age     | Frequency |
@@ -132,11 +136,13 @@ Based on the provided age distribution data, we can observe that the highest fre
 
 5. Box Plot (Income):
 Question: Identify outliers in the income distribution of bike buyers. Are there any extreme income values, and how might they impact purchasing behavior?
+
 Ans:
 From the provided frequency distribution of income, it appears that there are no data points beyond the specified bin of 170,000.
 
-6. Pie Chart (Region):
+7. Pie Chart (Region):
 Question: Represent the distribution of bike purchases by region using a pie chart. Are there regions where bike purchases are notably higher?
+
 Ans:
 We can analyze the distribution of bike purchases by region using the pie chart. Let's interpret the results:
 -Europe: 148 bike purchases
@@ -148,20 +154,23 @@ Europe is the second-highest contributor with 148 purchases.
 Pacific has the smallest slice, indicating a lower number of bike purchases compared to the other two regions.
 Therefore, bike purchases are notably higher in North America, followed by Europe, while the Pacific region has a comparatively lower share.
 
-7. Scatter Plot (Income vs. Age):
+8. Scatter Plot (Income vs. Age):
 Question: Create a scatter plot to investigate the relationship between income and age. Do individuals with higher incomes tend to be in specific age groups?
+
 Ans:
 There doesn't seem to be a clear pattern or trend between income and age in your scatter plot, it suggests that there may not be a strong correlation between the two variables in your dataset. This could mean that income and age are not strongly related, or there might be other factors influencing the relationship.
 
-8. Stacked Bar Chart (Marital Status & Gender):
+9. Stacked Bar Chart (Marital Status & Gender):
 Question: How does the distribution of bike purchases differ when considering both marital status and gender simultaneously? Are there notable patterns?
+
 Ans: 
 There's a higher number of single individuals in both genders.
 The difference between married and single females is relatively smaller than the difference between married and single males.
 These patterns suggest that marital status may have a more pronounced impact on the bike purchase decision for males compared to females.
 
-9. Correlation Heatmap (Numeric Variables):
+10. Correlation Heatmap (Numeric Variables):
 Question: Use a heatmap to visualize the correlation matrix between numeric variables. What variables show a strong correlation, and how might this influence purchasing behavior?
+
 Ans:
 
 
