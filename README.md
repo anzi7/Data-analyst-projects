@@ -55,12 +55,53 @@ Data Analytics with Excel, Function in Excel, Pivot Tables, Conditional Formatti
 ## Skills:-
 Data Acquisition, Google Sheets Set-Up, Data Exploration, Data Visualization.
 
-1. Bar Chart (Marital Status):  
+1. Bar Chart (Marital Status):
+
 Question: How does the count of bike purchases vary among different marital statuses? Are married individuals more likely to purchase bikes?
-Ans: From the pivot table of two columns Marital Status and Purchased Bike, we know the count of married and single people purchasing the bikes.
+Ans: 
+From the pivot table of two columns Marital Status and Purchased Bike, we know the count of married and single people purchasing the bikes.
 There are two categories: "Married" and "Single." The counts of bike purchases are divided into two categories: "No" (indicating no bike purchase) and "Yes" (indicating a bike purchase). 
 There are two categories: "Married" and "Single." The counts of bike purchases are divided into two categories: "No" (indicating no bike purchase) and "Yes" (indicating a bike purchase). 
 - For married individuals: 307 individuals did not purchase a bike ("No"). 232 individuals purchased a bike ("Yes").
 - For single individuals: 212 individuals did not purchase a bike ("No"). 249 individuals purchased a bike ("Yes").
 - No, single individuals are more likely to buy bikes.
+
+2. Bar Chart (Gender):
+
+Question: Build a bar graph to compare the count of male and female customers. Does gender influence bike purchases, and if so, to what extent?
+Ans: 
+Count of females who purchased a bike: 239
+Count of females who did not purchase a bike: 252
+Total count of females: 491
+For Males:
+Count of males who purchased a bike: 242
+Count of males who did not purchase a bike: 267
+Total count of males: 509
+Based on this data, there is a marginal difference in the counts of bike purchases and non-purchases between males and females.
+
+3. Histogram (Income):
+Question: What is the distribution of income among bike buyers? Are there specific income brackets that show a higher likelihood of bike purchases?
+Ans: 
+| Income Bin | Frequency |
+|------------|-----------|
+| 10,000     | 74        |
+| 20,000     | 77        |
+| 30,000     | 134       |
+| 40,000     | 153       |
+| 50,000     | 40        |
+| 60,000     | 166       |
+| 70,000     | 123       |
+| 80,000     | 91        |
+| 90,000     | 38        |
+| 100,000    | 29        |
+| 110,000    | 16        |
+| 120,000    | 17        |
+| 130,000    | 32        |
+| 140,000    | 0         |
+| 150,000    | 4         |
+| 160,000    | 3         |
+| 170,000    | 3         |
+| More       | 0         |
+
+For instance, you might observe that the 60,000 bracket has a relatively high frequency. Conversely, brackets such as 140,000 and "More" have zero frequencies, indicating no buyers in those income ranges.
 
