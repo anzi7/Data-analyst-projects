@@ -55,3 +55,12 @@ Data Analytics with Excel, Function in Excel, Pivot Tables, Conditional Formatti
 ## Skills:-
 Data Acquisition, Google Sheets Set-Up, Data Exploration, Data Visualization.
 
+1. Bar Chart (Marital Status):  
+Question: How does the count of bike purchases vary among different marital statuses? Are married individuals more likely to purchase bikes?
+Ans: From the pivot table of two columns Marital Status and Purchased Bike, we know the count of married and single people purchasing the bikes.
+There are two categories: "Married" and "Single." The counts of bike purchases are divided into two categories: "No" (indicating no bike purchase) and "Yes" (indicating a bike purchase). 
+There are two categories: "Married" and "Single." The counts of bike purchases are divided into two categories: "No" (indicating no bike purchase) and "Yes" (indicating a bike purchase). 
+- For married individuals: 307 individuals did not purchase a bike ("No"). 232 individuals purchased a bike ("Yes").
+- For single individuals: 212 individuals did not purchase a bike ("No"). 249 individuals purchased a bike ("Yes").
+- No, single individuals are more likely to buy bikes.
+
