@@ -106,3 +106,62 @@ Ans:
 
 For instance, you might observe that the 60,000 bracket has a relatively high frequency. Conversely, brackets such as 140,000 and "More" have zero frequencies, indicating no buyers in those income ranges.
 
+4. Histogram (Age):
+Question: Create a histogram to understand the age distribution of bike buyers. Are certain age groups more inclined to purchase bikes?
+Ans:
+
+| Age     | Frequency |
+| ------- | --------- |
+| 20      | 0         |
+| 25      | 5         |
+| 30      | 103       |
+| 35      | 146       |
+| 40      | 171       |
+| 45      | 157       |
+| 50      | 142       |
+| 55      | 104       |
+| 60      | 71        |
+| 65      | 51        |
+| 70      | 39        |
+| 75      | 7         |
+| 80      | 3         |
+| 85      | 0         |
+| 90      | 1         |
+
+Based on the provided age distribution data, we can observe that the highest frequency of bike buyers falls within the age group of 35 to 50. This suggests that individuals in their mid-thirties to mid-forties are more inclined to purchase bikes. Age groups below 35 and above 50 also show interest, but the frequency decreases in those ranges.
+
+5. Box Plot (Income):
+Question: Identify outliers in the income distribution of bike buyers. Are there any extreme income values, and how might they impact purchasing behavior?
+Ans:
+From the provided frequency distribution of income, it appears that there are no data points beyond the specified bin of 170,000.
+
+6. Pie Chart (Region):
+Question: Represent the distribution of bike purchases by region using a pie chart. Are there regions where bike purchases are notably higher?
+Ans:
+We can analyze the distribution of bike purchases by region using the pie chart. Let's interpret the results:
+-Europe: 148 bike purchases
+-North America: 220 bike purchases
+-Pacific: 113 bike purchases
+In the pie chart, each region's slice represents the proportion of bike purchases in that region relative to the total. Here are some observations:
+North America has the highest proportion of bike purchases with 220 purchases, making it the largest slice in the pie chart.
+Europe is the second-highest contributor with 148 purchases.
+Pacific has the smallest slice, indicating a lower number of bike purchases compared to the other two regions.
+Therefore, bike purchases are notably higher in North America, followed by Europe, while the Pacific region has a comparatively lower share.
+
+7. Scatter Plot (Income vs. Age):
+Question: Create a scatter plot to investigate the relationship between income and age. Do individuals with higher incomes tend to be in specific age groups?
+Ans:
+There doesn't seem to be a clear pattern or trend between income and age in your scatter plot, it suggests that there may not be a strong correlation between the two variables in your dataset. This could mean that income and age are not strongly related, or there might be other factors influencing the relationship.
+
+8. Stacked Bar Chart (Marital Status & Gender):
+Question: How does the distribution of bike purchases differ when considering both marital status and gender simultaneously? Are there notable patterns?
+Ans: 
+There's a higher number of single individuals in both genders.
+The difference between married and single females is relatively smaller than the difference between married and single males.
+These patterns suggest that marital status may have a more pronounced impact on the bike purchase decision for males compared to females.
+
+9. Correlation Heatmap (Numeric Variables):
+Question: Use a heatmap to visualize the correlation matrix between numeric variables. What variables show a strong correlation, and how might this influence purchasing behavior?
+Ans:
+
+
