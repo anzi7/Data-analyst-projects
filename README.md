@@ -81,7 +81,8 @@ Based on this data, there is a marginal difference in the counts of bike purchas
 
 3. Histogram (Income):
 Question: What is the distribution of income among bike buyers? Are there specific income brackets that show a higher likelihood of bike purchases?
-Ans: 
+Ans:
+
 | Income Bin | Frequency |
 |------------|-----------|
 | 10,000     | 74        |
