@@ -168,9 +168,5 @@ There's a higher number of single individuals in both genders.
 The difference between married and single females is relatively smaller than the difference between married and single males.
 These patterns suggest that marital status may have a more pronounced impact on the bike purchase decision for males compared to females.
 
-10. Correlation Heatmap (Numeric Variables):
-Question: Use a heatmap to visualize the correlation matrix between numeric variables. What variables show a strong correlation, and how might this influence purchasing behavior?
-
-Ans:
 
 
